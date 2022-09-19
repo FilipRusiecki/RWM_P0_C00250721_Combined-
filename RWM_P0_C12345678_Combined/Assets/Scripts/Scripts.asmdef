@@ -1,0 +1,17 @@
+{
+    "name": "Scripts2",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e718668a4d6cac54aacaa364e4ffc249",
+        "GUID:0dcf65cc84b365942a1ef05559790aae"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
