@@ -230,7 +230,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "b0888794b36a6d06a32be92e3aa0f5ca74882251"
+      "hash": "4638246baef9e9443e94668e9f9a85b4a9dce8a9"
     },
     "ie.setu.runningtotal": {
       "version": "https://github.com/SasaKuzmanovic/RWM_P0_C00249246.git?path=/Packages/ie.setu.cubefilter#v0.1.0",
